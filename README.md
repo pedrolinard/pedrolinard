@@ -28,7 +28,7 @@ prática e construindo uma carreira sólida em back-end.
 
 🏆 Aprovado em **3º lugar na Universidade Federal do Piauí (UFPI)**.
 
-🗣️ Inglês nível **B1** — leio documentação e conteúdo técnico sem barreiras.
+🗣️ Inglês nível **B1** — leio documentação e conteúdo técnico sem dificuldades.
 
 ---
 
