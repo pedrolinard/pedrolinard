@@ -1,4 +1,4 @@
-## Pedro Lucas Linard
+## Sobre; Pedro Lucas Linard
 
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS) na Uninassau**, com
 foco em **desenvolvimento back-end** — direcionando minha formação para construir
