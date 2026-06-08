@@ -26,19 +26,15 @@ aplicações distribuídas.
 de dados, segurança de APIs e cloud computing**, transformando conhecimento em
 prática e construindo uma carreira sólida em back-end.
 
-🏆 Aprovado em **3º lugar na Universidade Federal do Piauí (UFPI)** em **Ciência da Computação**.
+🏆 Aprovado em **3º lugar na Universidade Federal do Piauí (UFPI)**.
 
 🗣️ Inglês nível **B1** — leio documentação e conteúdo técnico sem barreiras.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+[![Minhas tecnologias](https://skillicons.dev/icons?i=java,spring,python,django,git,idea,vscode)](https://skillicons.dev)
 
 ### 📫 Onde me encontrar
 
