@@ -32,7 +32,7 @@ prática e construindo uma carreira sólida em back-end.
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
