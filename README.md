@@ -26,7 +26,7 @@ aplicações distribuídas.
 de dados, segurança de APIs e cloud computing**, transformando conhecimento em
 prática e construindo uma carreira sólida em back-end.
 
-🏆 Aprovado em **3º lugar na Universidade Federal do Piauí (UFPI)**.
+🏆 Aprovado em **3º lugar na Universidade Federal do Piauí (UFPI)** em **Ciência da Computação**.
 
 🗣️ Inglês nível **B1** — leio documentação e conteúdo técnico sem dificuldades.
 
