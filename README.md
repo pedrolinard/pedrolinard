@@ -32,7 +32,7 @@ prática e construindo uma carreira sólida em back-end.
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Tecnologias e Ferramentas
 
 [![Minhas tecnologias](https://skillicons.dev/icons?i=java,spring,python,django,git,idea,vscode)](https://skillicons.dev)
 
