@@ -40,3 +40,4 @@ prática e construindo uma carreira sólida em back-end.
 
 - LinkedIn: [Pedro Linard](https://www.linkedin.com/in/pedrolinard/)
 - Email: pedrolin4rd@gmail.com
+- Instagram: [pedr.py](https://www.instagram.com/pedr.py/)
