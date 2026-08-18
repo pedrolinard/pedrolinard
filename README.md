@@ -5,9 +5,6 @@ foco em **desenvolvimento back-end** — direcionando minha formação para cons
 soluções escaláveis, organizadas e alinhadas às boas práticas de
 desenvolvimento de software.
 
-🎓 Iniciei minha trajetória em **Ciência da Computação** antes de ingressar em
-ADS, experiência que me aproximou cedo dos fundamentos da computação.
-
 💡 Venho desenvolvendo projetos acadêmicos e pessoais com **Java (Spring Boot)**
 e **Python (Django)**, com experiência em desenvolvimento de **APIs REST**,
 implementação de regras de negócio, integração com banco de dados e controle de
@@ -25,8 +22,6 @@ aplicações distribuídas.
 🚀 Busco crescer constantemente em **arquitetura de software, modelagem de banco
 de dados, segurança de APIs e cloud computing**, transformando conhecimento em
 prática e construindo uma carreira sólida em back-end.
-
-🏆 Aprovado em **3º lugar na Universidade Federal do Piauí (UFPI)** em **Ciência da Computação**.
 
 🗣️ Inglês nível **B1** — leio documentação e conteúdo técnico sem dificuldades.
 
