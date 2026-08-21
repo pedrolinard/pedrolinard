@@ -1,6 +1,6 @@
 ## Pedro Linard
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS) na Uninassau**, com
+Estudante de **Análise e Desenvolvimento de Sistemas**, com
 foco em **desenvolvimento back-end** — direcionando minha formação para construir
 soluções escaláveis, organizadas e alinhadas às boas práticas de
 desenvolvimento de software.
