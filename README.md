@@ -1,141 +1,116 @@
-<!-- 200 OK — se você abriu o código-fonte, já temos algo em comum. -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,55:1B4D2E,100:6DB33F&text=Pedro%20Linard&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=Back-end%20Developer%20%C2%B7%20Java%20%26%20Python&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,100:238636&text=Pedro%20Linard&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn" width="100%" alt="Pedro Linard" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=640&lines=Construindo+o+que+acontece+depois+do+clique.;APIs+REST+com+Spring+Boot+e+Django.;C%C3%B3digo+que+escala+e+outra+pessoa+entende.;Do+pacote+de+rede+at%C3%A9+o+banco+de+dados." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=620&lines=Back-end+Developer;APIs+%E2%80%A2+AI+Agents+%E2%80%A2+Scalable+Systems;Java+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+Node.js" alt="Back-end Developer" />
 
-<br/>
+**Back-end Developer** · Systems Analysis and Development student
 
-<a href="https://www.linkedin.com/in/pedrolinard/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pedrolin4rd@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://www.instagram.com/pedr.py/"><img src="https://img.shields.io/badge/@pedr.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/status-aberto%20a%20oportunidades-6DB33F?style=for-the-badge" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolinard/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolin4rd@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedr.py/)
+
+**[About](#about)** &nbsp;·&nbsp; **[Projects](#projects)** &nbsp;·&nbsp; **[Tech Stack](#stack)** &nbsp;·&nbsp; **[Learning](#learning)** &nbsp;·&nbsp; **[Contact](#contact)**
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<a name="about"></a>
+## 👋 About me
 
-### 👨‍💻 Sobre mim
+I build the part of software that nobody sees but everybody depends on: **APIs, business logic, data and the infrastructure that keeps it all running**. My main tools are **Java (Spring Boot)**, **Python (Django)** and **Node.js**, and I also work with **TypeScript, React and Next.js** when a project needs to go end to end.
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, focado em **back-end** — a camada que ninguém vê, mas que todo mundo sente quando falha.
+Lately I've been combining back-end with **AI agents** — systems where a language model only becomes useful once the architecture around it is solid: clear layers, real permissions and security enforced in code, not in the prompt.
 
-- 💡 Construo **APIs REST**, regras de negócio e integrações com banco de dados usando **Java (Spring Boot)** e **Python (Django)**
-- 🔧 No **Spring Boot**, aprofundo **POO**, **arquitetura em camadas** e **persistência com JPA**
-- 🐍 No **Django**, construo **sistemas web estruturados** e modelagem de dados
-- 🌐 Base em **redes de computadores** — entendo o caminho da requisição *antes* dela chegar no meu código
-- 🗣️ Inglês **B1** — documentação técnica sem dificuldade
+I'm a **Systems Analysis and Development** student with a background in **computer networks**, **software architecture**, **cloud computing** and **API security**.
 
-</td>
-<td width="42%" valign="top">
-
-### `pedro.json`
-
-```json
-{
-  "foco": "back-end",
-  "stack": [
-    "Java · Spring Boot",
-    "Python · Django"
-  ],
-  "domino": [
-    "APIs REST",
-    "JPA / ORM",
-    "Arquitetura em camadas"
-  ],
-  "diferencial": "redes",
-  "status": "evoluindo"
-}
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### ⚡ Como eu penso uma requisição
-
-> Cada camada com uma única responsabilidade. Simples de ler, fácil de testar, pronto pra escalar.
-
-```mermaid
-sequenceDiagram
-    autonumber
-    participant C as 🌐 Cliente
-    participant CT as 🎯 Controller
-    participant S as ⚙️ Service
-    participant R as 🗂️ Repository
-    participant DB as 🐘 Banco
-
-    C->>CT: POST /pedidos (JSON)
-    CT->>CT: valida entrada
-    CT->>S: DTO
-    S->>S: aplica regras de negócio
-    S->>R: salvar(entidade)
-    R->>DB: INSERT
-    DB-->>R: ok
-    R-->>S: entidade persistida
-    S-->>CT: resposta
-    CT-->>C: 201 Created
-```
-
----
-
-### 🛠️ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,postgres,mysql,git,github,idea,vscode,linux,postman&theme=dark&perline=12" />
-
-</div>
-
----
-
-### 🚀 Em evolução
-
-<div align="center">
-
-| Área | Status |
-|:---|:---:|
-| Arquitetura de Software | ![](https://img.shields.io/badge/estudando-FCA130?style=flat-square) |
-| Modelagem de Banco de Dados | ![](https://img.shields.io/badge/praticando-6DB33F?style=flat-square) |
-| Segurança de APIs | ![](https://img.shields.io/badge/estudando-FCA130?style=flat-square) |
-| Cloud Computing | ![](https://img.shields.io/badge/pr%C3%B3ximo%20deploy-61AFFE?style=flat-square) |
-| Inglês B1 → B2 | ![](https://img.shields.io/badge/em%20progresso-6DB33F?style=flat-square) |
-
-</div>
-
----
-
-### 📊 Em números
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6DB33F&icon_color=6DB33F&text_color=C9D1D9&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=C9D1D9" height="165" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=C9D1D9&line=6DB33F&point=FFFFFF&area=true&area_color=6DB33F&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<details>
-<summary><b>🔍 Easter egg — <code>GET /desistir</code></b></summary>
+📍 Brazil &nbsp;·&nbsp; 🗣️ English B2 &nbsp;·&nbsp; 🤝 Open to opportunities and collaborations
 
 <br/>
 
-```http
-HTTP/1.1 404 Not Found
+<a name="projects"></a>
+## 🚀 What I've been building
 
-{ "erro": "Recurso não encontrado neste servidor.", "sugestao": "GET /evoluir" }
-```
+| Project | What it is | Stack |
+|:---|:---|:---|
+| **[TeamTrack](https://teamtrack-eight.vercel.app)**<br/><sub>🟢 Live</sub> | Team management platform with an AI agent on Telegram that understands the company hierarchy (admin → manager → supervisor → employee). Each user only sees what their role allows, enforced at the application layer. | React, Supabase, Python, Agno, Claude API, Vercel |
+| **Topado**<br/><sub>🟡 In development</sub> | AI micro-SaaS that turns a short brief into a professional commercial proposal, with a public link and online client acceptance. | Next.js, TypeScript, Supabase |
+| **Faciliza Agents**<br/><sub>🟢 Running</sub> | Multi-agent system with 11 AI agents: one orchestrator coordinating 10 specialists that create and publish marketing content on Instagram and WhatsApp. | Python, Agno, Claude API, Meta Graph API |
+
+<br/>
+
+<a name="stack"></a>
+## 🛠️ Tech stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="Languages" />
+
+Java · Python · JavaScript · TypeScript
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6DB33F,45:1B4D2E,100:0D1117" width="100%" />
+<details open>
+<summary><b>Back-end</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=spring,django,nodejs&theme=dark" alt="Back-end" />
+
+Spring Boot · Django · Node.js · REST APIs · JPA
+
+</details>
+
+<details open>
+<summary><b>Front-end</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Front-end" />
+
+React · Next.js
+
+</details>
+
+<details open>
+<summary><b>Data</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" alt="Data" />
+
+PostgreSQL · Supabase
+
+</details>
+
+<details open>
+<summary><b>Cloud & tooling</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=vercel,git,github,idea,vscode&theme=dark" alt="Cloud and tooling" />
+
+Vercel · Railway · Git · GitHub · IntelliJ IDEA · VS Code
+
+</details>
+
+<br/>
+
+<a name="learning"></a>
+## 🧠 Currently learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-in%20progress-3FB950?style=flat-square&logo=python&logoColor=white)
+![Database Modeling](https://img.shields.io/badge/Database%20Modeling-in%20progress-3FB950?style=flat-square&logo=postgresql&logoColor=white)
+
+<br/>
+
+<a name="contact"></a>
+<div align="center">
+
+**Let's talk about back-end, AI and new challenges.**
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolinard/)
+[![Email](https://img.shields.io/badge/pedrolin4rd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolin4rd@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:238636,100:0D1117" width="100%" alt="" />
+
+</div>
