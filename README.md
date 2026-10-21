@@ -89,7 +89,7 @@ PostgreSQL · Prisma · Supabase
 
 <img src="https://skillicons.dev/icons?i=vercel,git,github,idea,vscode&theme=dark" alt="Cloud and tooling" />
 
-Vercel · Railway · Git · GitHub · IntelliJ IDEA · VS Code
+Vercel · Git · GitHub · IntelliJ IDEA · VS Code
 
 </details>
 
