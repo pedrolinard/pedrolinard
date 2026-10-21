@@ -1,183 +1,141 @@
-<!--
-  200 OK — você abriu o código-fonte do README.
-  Curiosidade de quem lê o código por trás da tela. Gostei de você.
--->
+<!-- 200 OK — se você abriu o código-fonte, já temos algo em comum. -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=6DB33F&center=true&vCenter=true&width=720&lines=%3E+GET+%2Fpedro-linard+HTTP%2F1.1;%3E+200+OK;%3E+Content-Type%3A+application%2Fbackend-developer;%3E+o+que+acontece+depois+do+clique+%C3%A9+comigo." alt="GET /pedro-linard" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,55:1B4D2E,100:6DB33F&text=Pedro%20Linard&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=Back-end%20Developer%20%C2%B7%20Java%20%26%20Python&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-### `Pedro Linard API` · `v1.0.0`
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=640&lines=Construindo+o+que+acontece+depois+do+clique.;APIs+REST+com+Spring+Boot+e+Django.;C%C3%B3digo+que+escala+e+outra+pessoa+entende.;Do+pacote+de+rede+at%C3%A9+o+banco+de+dados." alt="typing" />
 
-**Back-end Developer em formação** · Análise e Desenvolvimento de Sistemas
+<br/>
 
-`Java` · `Spring Boot` · `Python` · `Django` · `REST` · `Redes`
+<a href="https://www.linkedin.com/in/pedrolinard/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pedrolin4rd@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://www.instagram.com/pedr.py/"><img src="https://img.shields.io/badge/@pedr.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/status-aberto%20a%20oportunidades-6DB33F?style=for-the-badge" />
 
 </div>
 
-> [!NOTE]
-> **Este perfil é uma API.** Em vez de te contar quem eu sou, deixo você *consultar*.
-> Escolha um endpoint abaixo — todas as respostas são reais.
+<br/>
 
----
+<table>
+<tr>
+<td width="58%" valign="top">
 
-### `$ curl -X GET https://api.pedrolinard.dev/v1/pedro`
+### 👨‍💻 Sobre mim
 
-```http
-HTTP/1.1 200 OK
-Content-Type: application/json
-Accept-Language: pt-BR, en;q=0.6
-X-Status: em-evolucao-constante
-```
+Estudante de **Análise e Desenvolvimento de Sistemas**, focado em **back-end** — a camada que ninguém vê, mas que todo mundo sente quando falha.
+
+- 💡 Construo **APIs REST**, regras de negócio e integrações com banco de dados usando **Java (Spring Boot)** e **Python (Django)**
+- 🔧 No **Spring Boot**, aprofundo **POO**, **arquitetura em camadas** e **persistência com JPA**
+- 🐍 No **Django**, construo **sistemas web estruturados** e modelagem de dados
+- 🌐 Base em **redes de computadores** — entendo o caminho da requisição *antes* dela chegar no meu código
+- 🗣️ Inglês **B1** — documentação técnica sem dificuldade
+
+</td>
+<td width="42%" valign="top">
+
+### `pedro.json`
 
 ```json
 {
-  "nome": "Pedro Linard",
-  "formacao": "Análise e Desenvolvimento de Sistemas",
-  "foco": "Desenvolvimento back-end",
-  "missao": "Construir soluções escaláveis, organizadas e alinhadas às boas práticas de engenharia de software",
-  "stack": {
-    "java":   ["Spring Boot", "JPA", "POO", "Arquitetura em camadas"],
-    "python": ["Django", "Modelagem de dados", "Sistemas web estruturados"]
-  },
-  "experiencia": ["APIs REST", "Regras de negócio", "Integração com banco de dados", "Git"],
-  "diferencial": "Redes de computadores — entendo o caminho que a requisição faz antes de chegar no meu código",
-  "idiomas": { "portugues": "nativo", "ingles": "B1 — leio documentação técnica sem dificuldade" },
-  "disponivel_para": ["estágio", "projetos", "colaborações"]
+  "foco": "back-end",
+  "stack": [
+    "Java · Spring Boot",
+    "Python · Django"
+  ],
+  "domino": [
+    "APIs REST",
+    "JPA / ORM",
+    "Arquitetura em camadas"
+  ],
+  "diferencial": "redes",
+  "status": "evoluindo"
 }
 ```
 
----
-
-### 📑 `Endpoints disponíveis`
-
-| Método | Endpoint | Descrição |
-|:---:|:---|:---|
-| ![GET](https://img.shields.io/badge/GET-61AFFE?style=flat-square) | [`/sobre`](#-get-sobre) | Quem eu sou e como penso software |
-| ![GET](https://img.shields.io/badge/GET-61AFFE?style=flat-square) | [`/arquitetura`](#-get-arquitetura) | Como eu estruturo uma aplicação |
-| ![GET](https://img.shields.io/badge/GET-61AFFE?style=flat-square) | [`/rede`](#-get-rede) | O que acontece antes do back-end |
-| ![GET](https://img.shields.io/badge/GET-61AFFE?style=flat-square) | [`/stack`](#-get-stack) | Tecnologias e ferramentas |
-| ![PUT](https://img.shields.io/badge/PUT-FCA130?style=flat-square) | [`/roadmap`](#-put-roadmap) | O que estou atualizando em mim |
-| ![POST](https://img.shields.io/badge/POST-49CC90?style=flat-square) | [`/contato`](#-post-contato) | Fale comigo |
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔵 `GET /sobre`
+### ⚡ Como eu penso uma requisição
 
-Estudante de **Análise e Desenvolvimento de Sistemas** com foco em **back-end** — a parte do software que ninguém vê, mas que todo mundo sente quando falha.
-
-- 💡 Desenvolvo projetos acadêmicos e pessoais com **Java (Spring Boot)** e **Python (Django)**, construindo **APIs REST**, implementando regras de negócio e integrando com banco de dados.
-- 🔧 Com **Spring Boot**, aprofundo **POO**, **arquitetura em camadas** e **persistência com JPA**.
-- 🐍 Com **Django**, construo **sistemas web estruturados**, modelo dados e implemento funcionalidades de back-end.
-- 🌐 Tenho base em **redes de computadores**, o que muda a forma como enxergo comunicação entre sistemas e aplicações distribuídas.
-
-```diff
-- Código que só funciona.
-+ Código que funciona, escala e outra pessoa consegue manter.
-```
-
----
-
-### 🔵 `GET /arquitetura`
-
-> Como uma requisição atravessa uma aplicação que eu construo — cada camada com **uma** responsabilidade.
+> Cada camada com uma única responsabilidade. Simples de ler, fácil de testar, pronto pra escalar.
 
 ```mermaid
-flowchart LR
-    C(["🌐 Cliente"]) -->|HTTP / JSON| CT["🎯 Controller<br/><sub>recebe e valida</sub>"]
-    CT --> S["⚙️ Service<br/><sub>regras de negócio</sub>"]
-    S --> R["🗂️ Repository<br/><sub>JPA · Django ORM</sub>"]
-    R --> DB[("🐘 Banco de Dados")]
-    DB -.->|dados| R -.-> S -.->|DTO| CT -.->|200 OK| C
+sequenceDiagram
+    autonumber
+    participant C as 🌐 Cliente
+    participant CT as 🎯 Controller
+    participant S as ⚙️ Service
+    participant R as 🗂️ Repository
+    participant DB as 🐘 Banco
 
-    style C  fill:#0D1117,stroke:#61AFFE,color:#61AFFE
-    style CT fill:#0D1117,stroke:#6DB33F,color:#C9D1D9
-    style S  fill:#6DB33F,stroke:#6DB33F,color:#0D1117
-    style R  fill:#0D1117,stroke:#6DB33F,color:#C9D1D9
-    style DB fill:#0D1117,stroke:#FCA130,color:#FCA130
+    C->>CT: POST /pedidos (JSON)
+    CT->>CT: valida entrada
+    CT->>S: DTO
+    S->>S: aplica regras de negócio
+    S->>R: salvar(entidade)
+    R->>DB: INSERT
+    DB-->>R: ok
+    R-->>S: entidade persistida
+    S-->>CT: resposta
+    CT-->>C: 201 Created
 ```
 
 ---
 
-### 🔵 `GET /rede`
-
-> A maioria dos devs começa a pensar quando a requisição chega no controller. Eu começo antes.
-
-```bash
-$ traceroute pedro-linard
- 1  estudante-ads          0.1 ms   # fundamentos, lógica, POO
- 2  redes-de-computadores  1.2 ms   # TCP/IP, DNS, HTTP — como os sistemas conversam
- 3  apis-rest              3.4 ms   # Spring Boot · Django
- 4  banco-de-dados         5.1 ms   # modelagem, JPA, ORM
- 5  arquitetura            * * *    # em rota...
- 6  engenheiro-back-end    * * *    # destino final 🎯
-```
-
----
-
-### 🔵 `GET /stack`
+### 🛠️ Stack
 
 <div align="center">
 
-[![Minhas tecnologias](https://skillicons.dev/icons?i=java,spring,python,django,git,idea,vscode&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,postgres,mysql,git,github,idea,vscode,linux,postman&theme=dark&perline=12" />
 
 </div>
 
 ---
 
-### 🟠 `PUT /roadmap`
+### 🚀 Em evolução
 
-> Status `102 Processing` — atualizações em andamento.
+<div align="center">
 
-```
-arquitetura de software   [████████░░░░░░░░░░░░]  em estudo
-modelagem de banco        [██████████░░░░░░░░░░]  em prática
-segurança de APIs         [██████░░░░░░░░░░░░░░]  em estudo
-cloud computing           [████░░░░░░░░░░░░░░░░]  próximo deploy
-inglês B1 → B2            [██████████░░░░░░░░░░]  em progresso
-```
+| Área | Status |
+|:---|:---:|
+| Arquitetura de Software | ![](https://img.shields.io/badge/estudando-FCA130?style=flat-square) |
+| Modelagem de Banco de Dados | ![](https://img.shields.io/badge/praticando-6DB33F?style=flat-square) |
+| Segurança de APIs | ![](https://img.shields.io/badge/estudando-FCA130?style=flat-square) |
+| Cloud Computing | ![](https://img.shields.io/badge/pr%C3%B3ximo%20deploy-61AFFE?style=flat-square) |
+| Inglês B1 → B2 | ![](https://img.shields.io/badge/em%20progresso-6DB33F?style=flat-square) |
+
+</div>
+
+---
+
+### 📊 Em números
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6DB33F&icon_color=6DB33F&text_color=C9D1D9&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=C9D1D9" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=C9D1D9&line=6DB33F&point=FFFFFF&area=true&area_color=6DB33F&hide_border=true" width="100%" />
+
+</div>
+
+---
 
 <details>
-<summary><b>⚠️ <code>404 — clique para ver o que não foi encontrado</code></b></summary>
+<summary><b>🔍 Easter egg — <code>GET /desistir</code></b></summary>
 
 <br/>
 
 ```http
 HTTP/1.1 404 Not Found
 
-{
-  "erro": "Recurso 'desistir' não encontrado neste servidor.",
-  "sugestao": "Tente GET /evoluir"
-}
+{ "erro": "Recurso não encontrado neste servidor.", "sugestao": "GET /evoluir" }
 ```
 
 </details>
 
----
-
-### 🟢 `POST /contato`
-
-```bash
-curl -X POST https://api.pedrolinard.dev/v1/contato \
-  -H "Content-Type: application/json" \
-  -d '{ "assunto": "vamos construir algo juntos?" }'
-```
-
-| Canal | Endpoint |
-|:---|:---|
-| 💼 LinkedIn | [linkedin.com/in/pedrolinard](https://www.linkedin.com/in/pedrolinard/) |
-| 📧 Email | [pedrolin4rd@gmail.com](mailto:pedrolin4rd@gmail.com) |
-| 📸 Instagram | [@pedr.py](https://www.instagram.com/pedr.py/) |
-
-<div align="center">
-
-<br/>
-
-```http
-HTTP/1.1 201 Created
-Location: /conexoes/voce
-```
-
-<sub>⚙️ Servidor no ar · tempo de resposta: rápido · uptime: aprendendo todos os dias</sub>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6DB33F,45:1B4D2E,100:0D1117" width="100%" />
