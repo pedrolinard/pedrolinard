@@ -34,9 +34,9 @@ I'm a **Systems Analysis and Development** student with a background in **comput
 
 | Project | What it is | Stack |
 |:---|:---|:---|
+| **[AuthGateway](https://github.com/pedrolinard/Auth-System)**<br/><sub>🟢 [Live](https://auth-gateway-kappa.vercel.app)</sub> | Centralized authentication gateway that other apps plug into as their identity layer. RS256 access tokens with rotating refresh tokens and reuse detection, MFA (TOTP) and passkeys (WebAuthn), OpenID Connect provider, multi-tenant organizations with RBAC, webhooks, audit logs and rate limiting. Ships with an SDK and a Django service that validates tokens via JWKS. | Next.js, TypeScript, Prisma, PostgreSQL, Django, Vercel |
 | **[TeamTrack](https://teamtrack-eight.vercel.app)**<br/><sub>🟢 Live</sub> | Team management platform with an AI agent on Telegram that understands the company hierarchy (admin → manager → supervisor → employee). Each user only sees what their role allows, enforced at the application layer. | React, Supabase, Python, Agno, Claude API, Vercel |
 | **Topado**<br/><sub>🟡 In development</sub> | AI micro-SaaS that turns a short brief into a professional commercial proposal, with a public link and online client acceptance. | Next.js, TypeScript, Supabase |
-| **Faciliza Agents**<br/><sub>🟢 Running</sub> | Multi-agent system with 11 AI agents: one orchestrator coordinating 10 specialists that create and publish marketing content on Instagram and WhatsApp. | Python, Agno, Claude API, Meta Graph API |
 
 <br/>
 
@@ -77,9 +77,9 @@ React · Next.js
 <summary><b>Data</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" alt="Data" />
+<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase&theme=dark" alt="Data" />
 
-PostgreSQL · Supabase
+PostgreSQL · Prisma · Supabase
 
 </details>
 
