@@ -21,7 +21,7 @@
 
 I build the part of software that nobody sees but everybody depends on: **APIs, business logic, data and the infrastructure that keeps it all running**. My main tools are **Java (Spring Boot)**, **Python (Django)** and **Node.js**, and I also work with **TypeScript, React and Next.js** when a project needs to go end to end.
 
-Lately I've been combining back-end with **AI agents** — systems where a language model only becomes useful once the architecture around it is solid: clear layers, real permissions and security enforced in code, not in the prompt.
+Lately I've been combining back-end with **AI agents** systems where a language model only becomes useful once the architecture around it is solid: clear layers, real permissions and security enforced in code, not in the prompt.
 
 I'm a **Systems Analysis and Development** student with a background in **computer networks**, **software architecture**, **cloud computing** and **API security**. I was also admitted to **Computer Science at the Federal University of Piauí (UFPI)**, ranking **3rd** overall.
 
