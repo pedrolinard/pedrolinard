@@ -23,7 +23,7 @@ I build the part of software that nobody sees but everybody depends on: **APIs, 
 
 Lately I've been combining back-end with **AI agents** — systems where a language model only becomes useful once the architecture around it is solid: clear layers, real permissions and security enforced in code, not in the prompt.
 
-I'm a **Systems Analysis and Development** student with a background in **computer networks**, **software architecture**, **cloud computing** and **API security**.
+I'm a **Systems Analysis and Development** student with a background in **computer networks**, **software architecture**, **cloud computing** and **API security**. I was also admitted to **Computer Science at the Federal University of Piauí (UFPI)**, ranking **3rd** overall.
 
 📍 Brazil &nbsp;·&nbsp; 🗣️ English B2 &nbsp;·&nbsp; 🤝 Open to opportunities and collaborations
 
@@ -43,55 +43,52 @@ I'm a **Systems Analysis and Development** student with a background in **comput
 <a name="stack"></a>
 ## 🛠️ Tech stack
 
-<details open>
-<summary><b>Languages</b></summary>
-<br/>
+> Not a list of logos a system. This is the path a request travels through the tools I use.
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="Languages" />
+<div align="center">
 
-Java · Python · JavaScript · TypeScript
+<table>
+  <tr>
+    <th>🖥️ Interface</th>
+    <th>➜</th>
+    <th>⚙️ API</th>
+    <th>➜</th>
+    <th>🗄️ Data</th>
+    <th>➜</th>
+    <th>☁️ Cloud</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=react,nextjs&perline=1&theme=dark" alt="React, Next.js" /></td>
+    <td></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=spring,django,nodejs&perline=1&theme=dark" alt="Spring Boot, Django, Node.js" /></td>
+    <td></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=postgres,prisma,supabase&perline=1&theme=dark" alt="PostgreSQL, Prisma, Supabase" /></td>
+    <td></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=aws,vercel&perline=1&theme=dark" alt="AWS, Vercel" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>React<br/>Next.js</sub></td>
+    <td></td>
+    <td align="center"><sub>Spring Boot<br/>Django<br/>Node.js</sub></td>
+    <td></td>
+    <td align="center"><sub>PostgreSQL<br/>Prisma<br/>Supabase</sub></td>
+    <td></td>
+    <td align="center"><sub>AWS<br/>Vercel<br/></sub></td>
+  </tr>
+  <tr>
+    <td colspan="7" align="center">
+      <br/>
+      <b>Written in</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="Java, Python, JavaScript, TypeScript" />
+      <br/><br/>
+      <b>Built with</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" alt="Git, GitHub, IntelliJ IDEA, VS Code" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
-</details>
-
-<details open>
-<summary><b>Back-end</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=spring,django,nodejs&theme=dark" alt="Back-end" />
-
-Spring Boot · Django · Node.js · REST APIs · JPA
-
-</details>
-
-<details open>
-<summary><b>Front-end</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Front-end" />
-
-React · Next.js
-
-</details>
-
-<details open>
-<summary><b>Data</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase&theme=dark" alt="Data" />
-
-PostgreSQL · Prisma · Supabase
-
-</details>
-
-<details open>
-<summary><b>Cloud & tooling</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=vercel,git,github,idea,vscode&theme=dark" alt="Cloud and tooling" />
-
-Vercel · Git · GitHub · IntelliJ IDEA · VS Code
-
-</details>
+</div>
 
 <br/>
 
